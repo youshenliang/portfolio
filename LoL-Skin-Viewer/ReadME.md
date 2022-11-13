@@ -17,8 +17,8 @@
 <img src="https://github.com/youshenliang/LoL-Skin-Viewer/blob/main/imgs/show_skin_video.png" width="700">
 
 ## 使用說明
-**請先安裝 NodeJS 環境，並確保 npm 工具可以正常運作**
-<br/ > 輸入 `npm install` 以安裝所需之模組 <br/>
+**請先安裝 NodeJS 環境，並確保 npm 工具可以正常運作**  <br />
+輸入 `npm install` 以安裝所需之模組 <br/>
 輸入 `npm run start` 可在 CLI 環境中執行本程式 <br/>
 輸入 `npm run dist-win` 以打包為 Windows `exe` 可執行檔 <br/>
 輸入 `npm run dist-linux` 以打包為 Linux `AppImage` 可執行檔 <br/>
