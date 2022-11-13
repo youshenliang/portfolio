@@ -8,19 +8,19 @@
 後端使用 PHP 根據使用者操作渲染相對之元素，製作並產生 PDF 表單
 
 ### 主介面
-<img src="https://github.com/youshenliang/LoL-Skin-Viewer/blob/main/imgs/list_all_champions.png" width="700">
+<img src="https://github.com/youshenliang/portfolio/blob/main/Online-Sign-Sheet-Generator/imgs/main.png" width="700">
 
 ### 一鍵產生固定格式之簽到表
-<img src="https://github.com/youshenliang/LoL-Skin-Viewer/blob/main/imgs/list_all_skins.png" width="700">
+<img src="https://github.com/youshenliang/portfolio/blob/main/Online-Sign-Sheet-Generator/imgs/sheet1.png" width="700">
 
 ### 可根據需求製作固定格式之自訂簽到表
-<img src="https://github.com/youshenliang/LoL-Skin-Viewer/blob/main/imgs/show_skin_video.png" width="700">
+<img src="https://github.com/youshenliang/portfolio/blob/main/Online-Sign-Sheet-Generator/imgs/custom.png" width="700">
 
 ### 根據需求產生之自訂簽到表
-<img src="https://github.com/youshenliang/LoL-Skin-Viewer/blob/main/imgs/list_all_skins.png" width="700">
+<img src="https://github.com/youshenliang/portfolio/blob/main/Online-Sign-Sheet-Generator/imgs/sheet2.png" width="700">
 
 ### 編輯成員名單
-<img src="https://github.com/youshenliang/LoL-Skin-Viewer/blob/main/imgs/show_skin_video.png" width="700">
+<img src="https://github.com/youshenliang/portfolio/blob/main/Online-Sign-Sheet-Generator/imgs/edit_member.png" width="700">
 
 ## 網址(展示用版本)
 [https://imlys.000webhostapp.com/sign-sheet-generator_exhibition.php](https://imlys.000webhostapp.com/sign-sheet-generator_exhibition.php)
