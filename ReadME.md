@@ -3,7 +3,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;這是一個可以檢索英雄聯盟LOL這個遊戲中，所有角色、造型和選定之造型影片的工具 <br />
 &nbsp; &nbsp; &nbsp; &nbsp;為使用 jQuery + Node.JS 開發的 WebApp，可打包為可執行檔 <br />
 
-&nbsp; &nbsp; &nbsp; &nbsp;<img src="https://github.com/youshenliang/LoL-Skin-Viewer/blob/main/imgs/list_all_champions.png" width="600"> 
+&nbsp; &nbsp; &nbsp; &nbsp;<img src="https://github.com/youshenliang/portfolio/blob/main/LoL-Skin-Viewer/imgs/list_all_champions.png" width="600"> 
 
 &nbsp; &nbsp; &nbsp; &nbsp;[詳細介紹請點我](https://github.com/youshenliang/portfolio/tree/main/LoL-Skin-Viewer)
 
