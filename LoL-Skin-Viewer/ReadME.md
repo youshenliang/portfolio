@@ -8,13 +8,13 @@
 使用 Electron 框架，可打包為 Linux、MacOS 和 Windows 上之可執行檔
 
 ### 列出遊戲中所有角色(依照英文名字排序及分類)
-<img src="https://github.com/youshenliang/LoL-Skin-Viewer/blob/main/imgs/list_all_champions.png" width="700">
+<img src="https://github.com/youshenliang/portfolio/blob/main/LoL-Skin-Viewer/imgs/list_all_champions.png" width="700">
 
 ### 列出選定角色之所有造型(依照造型推出時間)
-<img src="https://github.com/youshenliang/LoL-Skin-Viewer/blob/main/imgs/list_all_skins.png" width="700">
+<img src="https://github.com/youshenliang/portfolio/blob/main/LoL-Skin-Viewer/imgs/list_all_skins.png" width="700">
 
 ### 查詢選定造型之演示影片
-<img src="https://github.com/youshenliang/LoL-Skin-Viewer/blob/main/imgs/show_skin_video.png" width="700">
+<img src="https://github.com/youshenliang/portfolio/blob/main/LoL-Skin-Viewer/imgs/show_skin_video.png" width="700">
 
 ## 使用說明
 **請先安裝 NodeJS 環境，並確保 npm 工具可以正常運作**  <br />
