@@ -1,0 +1,57 @@
+{
+  "name": "lol-skins",
+  "version": "1.0.0",
+  "description": "LOL造型影片檢視工具 by LYS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron index.js",
+    "trace": "electron index.js --trace-warnings",
+    "pack": "electron-builder --dir --win=portable",
+    "dist-win": "electron-builder --win=portable",
+    "dist-linux": "electron-builder --linux",
+    "dist-mac": "electron-builder --mac"
+  },  
+  "build": {
+    "appId": "com.lys.lol-skins",
+    "productName": "LOL造型影片檢視工具 by LYS",
+    "directories": {
+      "output": "output"
+    },
+    "files": [
+      "**/*",
+      "build/"
+    ],
+    "asar": true,
+    "win": {
+      "icon": "build/icon.png",
+      "target": [
+        "portable"
+      ]
+    },
+    "mac": {
+      "target": ["dmg"],
+      "icon": "build/icon.png"
+    },
+    "linux": {
+      "target": ["AppImage", "deb"],
+      "category": "Utility",
+      "icon": "build/icon.png"
+    },
+    "portable": {
+      "artifactName": "lol skin viewer.exe"
+    }
+  },  
+  "author": "LYS",
+  "license": "ISC",
+  
+  "devDependencies": {
+    "electron": "^20.1.4",
+    "electron-builder": "^23.3.3"
+  },
+  
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "request": "^2.88.2"
+  }
+}
